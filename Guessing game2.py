@@ -24,4 +24,4 @@ while running:
             print('CONGRATULATIONS, KING! YOU HAVE GUESSED THE CORRECT NUMBER')
         elif number == var1 and Gender == "F":
             print('CONGRATULATIONS, QUEEN! YOU HAVE GUESSED THE CORRECT NUMBER')
-            break
+        break
